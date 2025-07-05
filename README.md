@@ -9,7 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a student of Seokyeong University<br/>
+  #### :raising_hand: I am a student of Seokyeong University (2022.03 ~)<br/>
   #### :fire: I aim to become a AI Engineer.<br/>
   <br/>
   <br/>
