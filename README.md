@@ -14,7 +14,8 @@
   <br/>
   <br/>
   ## Algorithm
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codeitnow)](https://solved.ac/codeitnow/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codeitnow)](https://solved.ac/codeitnow/)
+
 
   
   ## 🧱 Tech Stack
