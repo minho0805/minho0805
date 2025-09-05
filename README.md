@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=WelcomeToMyGithub!&fontSize=80)
 
 ## 👋 About Me
-- 🧑‍💻 Backend Developer (Node.js, Prisma, PostgreSQL)
-- 🌱 Currently working on **Food Waste Zero Map** & **BobPle**
-- 🚀 Interested in AI, Maps API, and Clean Architecture
+- 🧑‍💻 Backend Developer 
+- 🏫 I am studying in Computer Science
+- 🚀 I am interested in AI, Backend...
 
 ---
 
