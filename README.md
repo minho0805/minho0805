@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Welcome!&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=WelcomeToMyGithub!&fontSize=80)
 
 ## 👋 About Me
 - 🧑‍💻 Backend Developer (Node.js, Prisma, PostgreSQL)
@@ -45,4 +45,4 @@
 
 ## 📫 Contact
 - GitHub: [@minho0805](https://github.com/minho0805)
-- Email: **your_email@example.com**
+- Email: **2022305011@skuniv.ac.kr**
