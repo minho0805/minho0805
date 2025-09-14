@@ -37,7 +37,7 @@
 ## 🏆 Algorithm
 <p align="center">
   <a href="https://solved.ac/codeitnow">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codeitnow" alt="Solved.ac Profile" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codeslayer" alt="Solved.ac Profile" />
   </a>
 </p>
 
