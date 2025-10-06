@@ -1,4 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:9370DB,100:6A0DAD&height=200&section=header&text=Minho's%20Github&fontSize=50&fontColor=000000&animation=fadeIn&stroke=9B59B6&strokeWidth=1)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:9370DB,100:6A0DAD&height=200&section=header&text=Minho's%20Github&fontSize=50&fontColor=000000&animation=fadeIn&stroke=9B59B6&strokeWidth=1"/>
+</p>
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Minho's+Github!;I'm+Studying+for+Developer+;Please+Enjoy+My+Repo!&font=Fira%20Code&center=true&width=500&height=50&duration=2000&pause=1000" alt="README Typing SVG">
+
+</div>
 
 ## 👋 About Me
 - 🧑‍💻 Backend Developer
