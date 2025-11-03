@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f8cd38a-4aa7-4bd7-a5a8-189fc92e58ab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/song.svg" beforeDir="false" afterPath="$PROJECT_DIR$/song.svg" afterDir="false" />
-    </list>
+    <list default="true" id="0f8cd38a-4aa7-4bd7-a5a8-189fc92e58ab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1762158695765</updated>
       <workItem from="1762158696964" duration="711000" />
-      <workItem from="1762176977343" duration="2347000" />
+      <workItem from="1762176977343" duration="2799000" />
     </task>
     <servers />
   </component>
