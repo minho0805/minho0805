@@ -1,10 +1,7 @@
 <svg width="320" height="320" xmlns="http://www.w3.org/2000/svg">
     <!-- 앨범 커버만 단순히 보여주는 테스트용 SVG -->
-    <image
-            href="https://raw.githubusercontent.com/minho0805/minho0805/main/slowdancing.png"
-            x="0"
-            y="0"
-            width="320"
-            height="320"
+    <img class="cover"
+         src="data:image/png;base64,여기에_인코딩된_문자열"
+         alt="Slow Dancing cover" />height="320"
     />
 </svg>
