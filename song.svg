@@ -93,7 +93,9 @@
             <!-- 상단 Now playing + Spotify 로고 -->
             <div class="top">
                 <span class="np-text">Now playing on</span>
-                <img class="spotify-icon" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" />
+                <img class="spotify-icon"
+                     src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"
+                     alt="Spotify" />
             </div>
 
             <!-- 곡 제목 / 아티스트 -->
@@ -108,7 +110,7 @@
                 <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
             </div>
 
-            <!-- 앨범 커버 : song.svg랑 같은 폴더에 slowdancing.png 있어야 함 -->
+            <!-- 앨범 커버 : song.svg와 같은 폴더에 slowdancing.png 있어야 함 -->
             <img class="cover"
                  src="slowdancing.png"
                  alt="Slow Dancing cover" />
