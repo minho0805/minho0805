@@ -1,4 +1,4 @@
-<svg width="320" height="445" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-labelledby="cardTitle" role="img">
+<svg width="320" height="445" xmlns="http://www.w3.org/2000/svg" aria-labelledby="cardTitle" role="img">
     <title id="cardTitle">Now playing on Spotify</title>
     <foreignObject width="320" height="445">
         <style>
@@ -89,8 +89,6 @@
         </style>
 
         <div xmlns="http://www.w3.org/1999/xhtml" class="container">
-
-            <!-- 상단 Now playing + Spotify 로고 -->
             <div class="top">
                 <span class="np-text">Now playing on</span>
                 <img class="spotify-icon"
@@ -98,11 +96,9 @@
                      alt="Spotify" />
             </div>
 
-            <!-- 곡 제목 / 아티스트 -->
             <div class="title">Slow Dancing</div>
             <div class="artist">V</div>
 
-            <!-- 초록 파형 바 -->
             <div class="wave">
                 <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
                 <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
@@ -110,11 +106,10 @@
                 <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
             </div>
 
-            <!-- 앨범 커버 : song.svg와 같은 폴더에 slowdancing.png 있어야 함 -->
+            <!-- 여기 src 를 "slowdancing.png" 로, 상대경로 -->
             <img class="cover"
                  src="slowdancing.png"
                  alt="Slow Dancing cover" />
-
         </div>
     </foreignObject>
 </svg>
