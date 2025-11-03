@@ -8,8 +8,12 @@
 
 <br><br>
 
+<!-- 🎧 Now Playing 카드 (오른쪽 정렬) -->
 <a href="https://open.spotify.com/track/4rDbp1vmpZje7s6ECX0G0a" target="_blank" rel="noopener noreferrer">
-  <img src="song.svg" alt="Slow Dancing - V" align="right" height="300"
+  <img src="https://raw.githubusercontent.com/minho0805/minho0805/main/song.svg"
+       alt="Slow Dancing - V"
+       align="right"
+       height="300"
        style="margin-left:20px; border-radius:12px; box-shadow:0 0 10px rgba(106,13,173,0.4);">
 </a>
 

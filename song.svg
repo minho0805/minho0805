@@ -89,6 +89,7 @@
         </style>
 
         <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+
             <div class="top">
                 <span class="np-text">Now playing on</span>
                 <img class="spotify-icon"
@@ -106,10 +107,11 @@
                 <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
             </div>
 
-            <!-- 여기 src 를 "slowdancing.png" 로, 상대경로 -->
+            <!-- 여기: GitHub raw 에 올라간 slowdancing.png 사용 -->
             <img class="cover"
-                 src="slowdancing.png"
+                 src="https://raw.githubusercontent.com/minho0805/minho0805/main/slowdancing.png"
                  alt="Slow Dancing cover" />
+
         </div>
     </foreignObject>
 </svg>
