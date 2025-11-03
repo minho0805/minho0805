@@ -110,7 +110,7 @@
 
             <!-- 앨범 커버 (레포 루트에 slowdancing.png 필요) -->
             <img class="cover"
-                 src="slowdancing.png"
+                 src="https://raw.githubusercontent.com/minho0805/minho0805/main/slowdancing.png"
                  alt="Slow Dancing cover" />
 
         </div>
