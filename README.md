@@ -16,7 +16,7 @@
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,flask" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,flask,tensorflow" />
   </a>
 </p>
 <p>
