@@ -27,15 +27,6 @@
 
 <br><br>
 
-<h2> 🏅 Awards</h2>
-null
-
-<br><br>
-
-<h2> 🪪 Certifications</h2>
-null
-
-<br><br>
 
 <h2> 🐶 Git Animals </h2>
 
