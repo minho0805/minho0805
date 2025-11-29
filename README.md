@@ -27,6 +27,19 @@
 
 <br><br>
 
+<h2> 🏅 Awards </h2>
+<p>
+  🥉 2025.11 교내 학교(학과)개선 공모전 3등 - <a href="https://github.com/Hwai-Team">UniTime</a>
+</p>
+<p>
+<br><br>
+
+<h2> 🪪 Certifications </h2>
+<p>
+  null
+</p>
+<p>
+<br><br>
 
 <h2> 🐶 Git Animals </h2>
 
