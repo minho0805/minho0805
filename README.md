@@ -36,7 +36,7 @@
 
 <h2> 🪪 Certifications </h2>
 <p>
-  null
+  ADsP & SQLD 준비중...
 </p>
 <p>
 <br><br>
