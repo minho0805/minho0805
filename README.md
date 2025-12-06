@@ -29,7 +29,7 @@
 
 <h2> 🏅 Awards </h2>
 <p>
-  🥉 2025.11 서경대학교 전컴X소웨 연합 학교(학과)개선 공모전 3등 - <a href="https://github.com/Hwai-Team/UniTime-BE">UniTime</a>
+  🥉 2025.11 서경대학교 전컴X소웨 연합 학교(학과)개선 공모전 3등 - <a href="https://github.com/Hwai-Team/UniTime-BE">UniTime-BE</a>
 </p>
 <p>
 <br><br>
