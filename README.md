@@ -9,21 +9,32 @@
 <br><br>
 
 <h2> 📚 I've Used...</h2>
+<h3> Language</h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp" />
   </a>
 </p>
 <p>
+  <h3> Framework & Library</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,nodejs,react" />
   </a>
 </p>
+<h3> Database </h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   </a>
 </p>
+
+<h3> Infra & DevOps </h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker," />
+  </a>
+</p>
+
 
 <br><br>
 
