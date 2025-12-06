@@ -31,7 +31,7 @@
 <h3> Infra & DevOps </h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker," />
+    <img src="https://skillicons.dev/icons?i=aws,netlify,docker" />
   </a>
 </p>
 
