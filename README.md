@@ -45,12 +45,6 @@
 <p>
 <br><br>
 
-<h2> 🪪 Certifications </h2>
-<p>
-  None
-</p>
-<p>
-<br><br>
 
 <h2> 🐶 Git Animals </h2>
 
