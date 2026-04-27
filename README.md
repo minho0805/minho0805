@@ -33,7 +33,7 @@ I am passionate about brainstorming diverse ideas and bringing them to life thro
     </tr>
     <tr>
       <td align="center">2026.04</td>
-      <td align="center">🥇&nbsp;<i>1st&nbsp;Place</i></td>
+      <td align="center">🥈&nbsp;<i>2nd&nbsp;Place</i></td>
       <td align="center">LIKELION</td>
       <td align="center">The 1st ANIMAL LEAGUE</td>
     </tr>
