@@ -13,7 +13,7 @@ I am passionate about brainstorming diverse ideas and bringing them to life thro
 
 </br>
 
-<a href="[https://unijun.notion.site/no-sweat-no-sweet](https://www.notion.so/22247679678d83d5b64281f5c72e8ec0)">
+<a href="https://www.notion.so/22247679678d83d5b64281f5c72e8ec0">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 
