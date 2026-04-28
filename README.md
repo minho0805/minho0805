@@ -13,13 +13,8 @@ I am passionate about brainstorming diverse ideas and bringing them to life thro
 
 </br>
 
-<a href="https://www.notion.so/22247679678d83d5b64281f5c72e8ec0">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-</a>
-
-<a href="https://velog.io/@my_no_kim/posts">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
-</a>
+<a href="https://www.notion.so/22247679678d83d5b64281f5c72e8ec0"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://velog.io/@my_no_kim/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 
 <br></br>
 
