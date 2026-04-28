@@ -17,6 +17,10 @@ I am passionate about brainstorming diverse ideas and bringing them to life thro
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 
+<a href="https://velog.io/@my_no_kim/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+</a>
+
 <br></br>
 
 <h2>🏅 Awards</h2>
