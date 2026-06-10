@@ -68,11 +68,7 @@ I am passionate about brainstorming diverse ideas and bringing them to life thro
       <td align="center">SQL Developer (SQLD)</td>
       <td align="center">Korea Data Agency</td>
     </tr>
-    <tr>
-      <td align="center">2026.06</td>
-      <td align="center">Google Anallytics Certification</td>
-      <td align="center">Google</td>
-    </tr>
+  
   </tbody>
 </table>
 
