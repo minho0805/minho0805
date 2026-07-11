@@ -6,88 +6,25 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Minho%27s+GitHub;Backend+developer+in+progress;Enjoy+my+repo!&font=Fira%20Code&center=true&width=550&height=60&duration=1800&pause=800&color=9370DB">
 </div>
 
-<h2>🙋🏻‍♂️ About me</h2>
-<blockquote>
-I am passionate about brainstorming diverse ideas and bringing them to life through hands-on implementation. I have experience transforming concepts into tangible services through collaborative teamwork, and I am committed to growing into a backend developer who designs stable and efficient systems.
-</blockquote>
-
 </br>
-
-
-
-<h2>🏅 Awards</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th align="center">Date</th>
-      <th align="center">Award</th>
-      <th align="center">Organization</th>
-      <th align="center">Competition</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">2025.11</td>
-      <td align="center">🥉&nbsp;<i>3rd&nbsp;Place</i></td>
-      <td align="center">Seokyeong University</td>
-      <td align="center">The 1st Electronic, Computer & Software Engineering Joint Project Contest</td>
-    </tr>
-    <tr>
-      <td align="center">2026.04</td>
-      <td align="center">🥈&nbsp;<i>2nd&nbsp;Place</i></td>
-      <td align="center">LIKELION</td>
-      <td align="center">The 1st ANIMAL LEAGUE</td>
-    </tr>
-  </tbody>
-</table>
-
-<br><br>
-
-<h2>🪪 Certificates</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th align="center">Date</th>
-      <th align="center">Certificate</th>
-      <th align="center">Organization</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">2026.03</td>
-      <td align="center">Advanced Data Analytics Semi-Professional (ADsP)</td>
-      <td align="center">Korea Data Agency</td>
-    </tr>
-    <tr>
-      <td align="center">2026.03</td>
-      <td align="center">SQL Developer (SQLD)</td>
-      <td align="center">Korea Data Agency</td>
-    </tr>
-  
-  </tbody>
-</table>
-
-<br></br>
 
 <h2> 📚 I've Used...</h2>
 <h3> Language</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=java,python" />
   </a>
 </p>
 <p>
   <h3> Framework & Library</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,react" />
+    <img src="https://skillicons.dev/icons?i=spring" />
   </a>
 </p>
 <h3> Database </h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+    <img src="https://skillicons.dev/icons?i=mysql,redis" />
   </a>
 </p>
 
