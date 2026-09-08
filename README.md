@@ -75,13 +75,13 @@ I am passionate about brainstorming diverse ideas and bringing them to life thro
 <h3> Language</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
   </a>
 </p>
 <p>
   <h3> Framework & Library</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,react" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs" />
   </a>
 </p>
 <h3> Database </h3>
