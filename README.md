@@ -8,7 +8,7 @@
 
 <h2>🙋🏻‍♂️ About me</h2>
 <blockquote>
-I am passionate about brainstorming diverse ideas and bringing them to life through hands-on implementation. I have experience transforming concepts into tangible services through collaborative teamwork, and I am committed to growing into a backend developer who designs stable and efficient systems.
+다양한 아이디어를 기획하고 이를 직접 구현하며 발전시키는 것에 큰 열정을 가지고 있습니다. 협업을 통해 구상했던 개념을 실체 있는 서비스로 구현해 본 경험이 있으며, 앞으로 안정적이고 효율적인 시스템을 설계하는 백엔드 개발자로 성장하고자 합니다.
 </blockquote>
 
 </br>
@@ -29,15 +29,15 @@ I am passionate about brainstorming diverse ideas and bringing them to life thro
   <tbody>
     <tr>
       <td align="center">2025.11</td>
-      <td align="center">🥉&nbsp;<i>3rd&nbsp;Place</i></td>
-      <td align="center">Seokyeong University</td>
-      <td align="center">The 1st Electronic, Computer & Software Engineering Joint Project Contest</td>
+      <td align="center">🥉&nbsp;<i>3등&nbsp;</i></td>
+      <td align="center">서경대학교</td>
+      <td align="center">제1회 전자컴퓨터공학과&소프트웨어학과 연합 공모전</td>
     </tr>
     <tr>
       <td align="center">2026.04</td>
-      <td align="center">🥈&nbsp;<i>2nd&nbsp;Place</i></td>
-      <td align="center">LIKELION</td>
-      <td align="center">The 1st ANIMAL LEAGUE</td>
+      <td align="center">🥈&nbsp;<i>2등&nbsp;</i></td>
+      <td align="center">멋쟁이사자처럼</td>
+      <td align="center">제1회 ANIMAL LEAGUE</td>
     </tr>
   </tbody>
 </table>
@@ -50,22 +50,44 @@ I am passionate about brainstorming diverse ideas and bringing them to life thro
   <thead>
     <tr>
       <th align="center">Date</th>
-      <th align="center">Certificate</th>
       <th align="center">Organization</th>
+      <th align="center">Certificate</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">2026.03</td>
-      <td align="center">Advanced Data Analytics Semi-Professional (ADsP)</td>
-      <td align="center">Korea Data Agency</td>
+      <td align="center">한국데이터산업진흥원</td>
+      <td align="center">데이터분석 준전문가 (ADsP)</td>
     </tr>
     <tr>
       <td align="center">2026.03</td>
-      <td align="center">SQL Developer (SQLD)</td>
-      <td align="center">Korea Data Agency</td>
+      <td align="center">한국데이터산업진흥원</td>
+      <td align="center">SQL개발자 (SQLD)</td>
     </tr>
   
+  </tbody>
+</table>
+
+<br></br>
+
+<h2>📄 Publications</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Date</th>
+      <th align="center">Title</th>
+      <th align="center">Organization</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">2026.11</td>
+      <td align="center">스마트폰 IMU 센서와 2단계 TCN 기반 보행 분석을 이용한
+퇴행성 뇌질환 조기 선별 시스템</td>
+      <td align="center">한국정보처리학회</td>
+    </tr>
   </tbody>
 </table>
 
