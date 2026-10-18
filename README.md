@@ -77,16 +77,16 @@
   <thead>
     <tr>
       <th align="center">Date</th>
-      <th align="center">Title</th>
       <th align="center">Organization</th>
+      <th align="center">Title</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">2026.11</td>
+      <td align="center">한국정보처리학회</td>
       <td align="center">스마트폰 IMU 센서와 2단계 TCN 기반 보행 분석을 이용한
 퇴행성 뇌질환 조기 선별 시스템</td>
-      <td align="center">한국정보처리학회</td>
     </tr>
   </tbody>
 </table>
