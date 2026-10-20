@@ -46,6 +46,12 @@
       <td align="center">멋쟁이사자처럼</td>
       <td align="center">제1회 ANIMAL LEAGUE</td>
     </tr>
+    <tr>
+      <td align="center">2026.11</td>
+      <td align="center">🏆&nbsp;<i>대상&nbsp;</i></td>
+      <td align="center">한국정보처리학회</td>
+      <td align="center">2026 ACK(추계학술발표대회)</td>
+    </tr>
   </tbody>
 </table>
 
