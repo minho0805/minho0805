@@ -13,6 +13,13 @@
 
 </br>
 
+<a href="https://app.notion.com/p/Portfolio-22247679678d83d5b64281f5c72e8ec0">
+  <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
+&nbsp;
+
+</br>
+
 
 
 <h2>🏅 Awards</h2>
